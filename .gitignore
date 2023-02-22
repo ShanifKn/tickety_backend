@@ -129,6 +129,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# admin credentials
-adminCredentials.json
-.adminCredentials.json
+# # admin credentials
+# adminCredentials.json
+# .adminCredentials.json
